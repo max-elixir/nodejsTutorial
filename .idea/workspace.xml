@@ -11,6 +11,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -68,7 +69,7 @@
       <workItem from="1611188149227" duration="13000" />
       <workItem from="1611601816000" duration="5336000" />
       <workItem from="1611692205684" duration="7990000" />
-      <workItem from="1611703680430" duration="3298000" />
+      <workItem from="1611703680430" duration="3743000" />
     </task>
     <servers />
   </component>
@@ -80,7 +81,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -91,6 +104,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1611707152471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611707152471" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1611704575429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
