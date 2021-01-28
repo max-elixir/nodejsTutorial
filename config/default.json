@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://max2:max2@cluster0-fk44r.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "totally non-hackable jwt secret :)"
+  "jwtSecret": "totally non-hackable jwt secret :)",
+  "githubClientId" :  "113edec688e97074b38a",
+  "githubSecret" : "c0e436cd654e8eba63b59faf42a63115db502aaf"
 }
