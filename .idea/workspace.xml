@@ -16,10 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19d6aee9-7e49-4844-b0ac-383e2d90213d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
-    </list>
+    <list default="true" id="19d6aee9-7e49-4844-b0ac-383e2d90213d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +52,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxim\WebstormProjects\DevConnector\client\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +75,7 @@
       <workItem from="1611692205684" duration="7990000" />
       <workItem from="1611703680430" duration="3743000" />
       <workItem from="1611781241056" duration="431000" />
-      <workItem from="1611945628504" duration="2977000" />
+      <workItem from="1611945628504" duration="20962000" />
     </task>
     <servers />
   </component>
@@ -107,13 +110,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1212" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611954137826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1212" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611954137826" />
+    <state x="1169" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611951043266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1169" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611951043266" />
     <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1611707152471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611707152471" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1611948610079">
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1611966416103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611948610079" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611966416103" />
   </component>
 </project>
