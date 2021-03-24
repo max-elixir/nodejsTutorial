@@ -16,7 +16,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19d6aee9-7e49-4844-b0ac-383e2d90213d" name="Default Changelist" comment="" />
+    <list default="true" id="19d6aee9-7e49-4844-b0ac-383e2d90213d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/layouts/Alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/action/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/action/alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +85,8 @@
       <workItem from="1611781241056" duration="431000" />
       <workItem from="1611945628504" duration="20962000" />
       <workItem from="1612982214412" duration="169000" />
+      <workItem from="1616613018162" duration="3747000" />
+      <workItem from="1616616891723" duration="3239000" />
     </task>
     <servers />
   </component>
